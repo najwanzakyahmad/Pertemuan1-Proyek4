@@ -1,2 +1,8 @@
 # Pertemuan1-Proyek4
-Anggota kelompok : Aryagara, Hafidzon, Najwan 
+Anggota kelompok : 
+1. Aryagara Kristandy Rukmana Putra
+2. Hafidzon Al Hibridzi
+3. Najwan Zaky Ahmad
+
+Hasil ScreenShoot :
+
